@@ -1,5 +1,7 @@
 # Engenharia-de-prompt-fundamentos.
 
+### Prompt Genérico
+
 De forma bem direta: **Machine Learning** (ou Aprendizado de Máquina) é um subcampo da Inteligência Artificial que permite que computadores aprendam sem serem explicitamente programados para cada tarefa.
 
 Em vez de você escrever milhares de regras do tipo "se acontecer A, faça B", você fornece uma montanha de dados ao sistema e ele descobre os padrões sozinho.
@@ -31,6 +33,12 @@ Imagine que você quer ensinar um computador a diferenciar fotos de **cachorros*
 ### Por que isso importa?
 Diferente de um software rígido, os modelos de Machine Learning **melhoram com o tempo**. Quanto mais dados eles processam, mais precisos eles se tornam. É como um "músculo" digital que fica mais forte conforme treina.
 
----
+--- 
+
+### Prompt Esctruturado 
+
+Papel: Especialista em Tecnologia e Educação.
+Objetivo: Explicar o conceito de Machine Learning para um iniciante.
+Contexto: O usuário quer entender a lógica por trás da tecnologia que usa no dia a dia.
 
 **Gostaria que eu explicasse a diferença entre Machine Learning e Deep Learning (aprendizado profundo), ou prefere ver um exemplo de como começar a aprender isso na prática?**
