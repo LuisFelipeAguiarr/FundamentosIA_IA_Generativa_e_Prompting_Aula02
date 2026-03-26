@@ -1,0 +1,1 @@
+# FundamentosIA_IA_Generativa_e_Prompting_Aula02
